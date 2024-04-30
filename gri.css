@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(183, 143, 219);
+}
+.cont{
+    display:grid;
+    grid-template-columns:1fr 2fr 1fr;
+    column-gap: 20px;
+}
+ 
+.cot{
+    padding :1em;
+    background-color: cadetblue;
+    color:azure;
+}

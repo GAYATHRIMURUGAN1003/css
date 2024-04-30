@@ -1,0 +1,28 @@
+p :hover{
+    color: brown;
+    font-size: 1.1em;
+}
+p :link{
+    color:rgb(113, 174, 20);
+}
+p:not(:hover){
+    color:gray;
+}
+p  :active{
+    color: blueviolet;
+    font-size: 2.2em;
+
+}
+ol li:first-child{
+    color:violet;
+}
+ol li:last-child{
+    color:olive;
+}
+ol li:nth-child(2){
+    color:cornflowerblue;
+
+}
+section h1:only-child{
+    color:blue;
+}

@@ -1,0 +1,14 @@
+h3{
+    font-size: 2em;
+    font-family: "algerian";
+    color:rgb(100, 11, 100);
+    font-variant: small-caps;
+    text-align: center;
+    /* text-decoration: line-through; */
+    text-transform: capitalize;
+    text-indent: 1px;
+    text-wrap:2px;
+    text-shadow: 3px 3px 6px rgb(154, 13, 116);
+    border:4px dashed orange;
+
+}

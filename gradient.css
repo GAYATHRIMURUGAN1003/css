@@ -1,0 +1,4 @@
+body{
+    /* background-image: linear-gradient(red,green,blue,white,pink,white,red,green); */
+    background-image: radial-gradient(circle,white, pink,orange,red ,white,pink,red);
+}

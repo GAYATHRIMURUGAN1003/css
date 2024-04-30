@@ -1,0 +1,20 @@
+.first > h3::first-letter{
+color:blueviolet; 
+}
+h1{
+    color :blue;
+}
+#second > h3::first-line{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: orange;
+}
+#second > h3::before{
+    content:"🐶"
+}
+.first > h3::after{
+    content: "🐥🐣";
+}
+::selection{
+    color: darkgoldenrod;
+
+}
